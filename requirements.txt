@@ -1,0 +1,6 @@
+feedparser
+openai>=1.13.3
+requests
+python-dateutil
+pytz
+newspaper3k==0.2.8
